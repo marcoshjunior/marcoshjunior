@@ -2,7 +2,7 @@
 
 ##
 
-<h4 align="left">💫 Olá, meu nome é Marcos<br>🔭 Sou estudante Full Stack<br>🤝 Estou a procura de um Estagio<br>⚡ Curioso da Tecnologia</h4>
+<h4 align="left">💫 Olá, meu nome é Marcos<br>🔭 Estudo TI e Desenvolvimento de Software<br>🤝 Estou a procura de um Estagio<br>⚡ Curioso da Tecnologia</h4>
 
 
 <h3 align="left">Tecnologias</h3>
